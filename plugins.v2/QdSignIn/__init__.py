@@ -21,7 +21,7 @@ from app.utils.timer import TimerUtils
 
 class QdSignIn(_PluginBase):
     # 插件名称
-    plugin_name = "站点签到助手"
+    plugin_name = "阿飞自用签到助手"
     # 插件描述
     plugin_desc = "支持多个站点的自动签到功能，包括HH、OU、TTG等站点。"
     # 插件图标

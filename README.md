@@ -1,4 +1,4 @@
-# MoviePilot-Plugins
+# MoviePilot-Plugins-AFEI
 
 MoviePilot V2 插件集合，专注于站点签到功能。
 
@@ -12,7 +12,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 
 ## 插件列表
 
-### 🔐 站点签到助手 (QdSignIn)
+### 🔐 阿飞自用签到助手 (QdSignIn)
 
 一个功能强大的站点自动签到插件，支持多种签到方式和站点配置。
 
@@ -44,7 +44,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 
 #### 版本信息
 - **当前版本**: v1.2
-- **插件目录**: `plugins.v2/qd/`
+- **插件目录**: `plugins.v2/QdSignIn/`
 
 ## 安装说明
 
@@ -52,13 +52,13 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 1. 在MoviePilot管理界面中，进入"插件"页面
 2. 点击"插件市场"
 3. 添加第三方插件仓库：`https://github.com/nodesire7/MoviePilot-Plugins-AFEI`
-4. 在插件列表中找到"站点签到助手"并安装
+4. 在插件列表中找到"阿飞自用签到助手"并安装
 
 ### 方法二：手动安装
 1. 下载本仓库的`plugins.v2/qd/`目录
 2. 将整个目录复制到你的MoviePilot安装目录下的`plugins.v2/`文件夹中
 3. 重启MoviePilot服务
-4. 在插件管理页面中启用"站点签到助手"插件
+4. 在插件管理页面中启用"阿飞自用签到助手"插件
 
 ## 使用要求
 
