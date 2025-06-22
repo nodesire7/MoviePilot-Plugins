@@ -1028,5 +1028,19 @@
     "author": "zhjay",
     "level": 1,
     "v2": true
+  },
+  "QdSignIn": {
+    "name": "阿飞自用签到助手",
+    "description": "支持多个站点的自动签到功能，包括HH、OU、TTG等站点。",
+    "labels": "站点,签到",
+    "version": "1.2",
+    "icon": "QdSignIn.png",
+    "author": "A-FEI-",
+    "level": 2,
+    "history": {
+      "v1.2": "优化Cookie获取方式，优先使用MP站点管理Cookie，支持手动填写Cookie，移除Cookie文件依赖",
+      "v1.1": "新增自定义站点配置功能，支持手动填写站点域名和Cookie",
+      "v1.0": "新增站点签到助手插件，支持HH、OU、TTG站点自动签到"
+    }
   }
 }
