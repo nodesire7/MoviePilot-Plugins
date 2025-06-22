@@ -8,6 +8,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 
 - **作者**: A-FEI-
 - **GitHub**: https://github.com/nodesire7
+- **项目地址**: https://github.com/nodesire7/MoviePilot-Plugins-AFEI
 
 ## 插件列表
 
@@ -50,7 +51,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 ### 方法一：通过MoviePilot插件市场安装
 1. 在MoviePilot管理界面中，进入"插件"页面
 2. 点击"插件市场"
-3. 添加第三方插件仓库：`https://github.com/nodesire7/MoviePilot-Plugins`
+3. 添加第三方插件仓库：`https://github.com/nodesire7/MoviePilot-Plugins-AFEI`
 4. 在插件列表中找到"站点签到助手"并安装
 
 ### 方法二：手动安装
