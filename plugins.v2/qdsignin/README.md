@@ -43,7 +43,7 @@
 HH站点使用视觉识别技术，需要额外准备：
 
 - `red_dot_template.png` - 签到按钮的模板图片，用于视觉识别
-- 该文件应放置在插件目录下（`plugins.v2/qdsignin/`）
+- 该文件应放置在插件目录下（`plugins.v2/QdSignIn/`）
 
 ### 3. 自定义站点配置
 
