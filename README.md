@@ -44,7 +44,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 
 #### 版本信息
 - **当前版本**: v1.2
-- **插件目录**: `plugins.v2/QdSignIn/`
+- **插件目录**: `plugins.v2/qdsignin/`
 
 ## 安装说明
 

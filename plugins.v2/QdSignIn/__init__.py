@@ -25,7 +25,7 @@ class QdSignIn(_PluginBase):
     # 插件描述
     plugin_desc = "支持多个站点的自动签到功能，包括HH、OU、TTG等站点。"
     # 插件图标
-    plugin_icon = "QdSignIn.png"
+    plugin_icon = "qdsignin.png"
     # 插件版本
     plugin_version = "1.2"
     # 插件作者

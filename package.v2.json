@@ -1,10 +1,10 @@
 {
-  "QdSignIn": {
+  "qdsignin": {
     "name": "阿飞自用签到助手",
     "description": "支持多个站点的自动签到功能，包括HH、OU、TTG等站点。",
     "labels": "站点,签到",
     "version": "1.2",
-    "icon": "QdSignIn.png",
+    "icon": "qdsignin.png",
     "author": "A-FEI-",
     "level": 2,
     "history": {
