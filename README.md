@@ -1,4 +1,4 @@
-# MoviePilot-Plugins-AFEI
+# MoviePilot-Plugins
 
 MoviePilot V2 插件集合，专注于站点签到功能。
 
@@ -8,7 +8,7 @@ MoviePilot V2 插件集合，专注于站点签到功能。
 
 - **作者**: A-FEI-
 - **GitHub**: https://github.com/nodesire7
-- **项目地址**: https://github.com/nodesire7/MoviePilot-Plugins-AFEI
+- **项目地址**: https://github.com/nodesire7/MoviePilot-Plugins
 
 ## 插件列表
 
